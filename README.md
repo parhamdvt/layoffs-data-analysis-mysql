@@ -37,7 +37,7 @@ The EDA, detailed in `eda_script.sql`, aimed to answer several key questions:
 * **Industry Impact:** The analysis revealed that the Consumer and Retail industries were the most impacted by layoffs.
 * **Geographical Trends:** United States saw the highest number of total layoffs.
 * **Layoff Timeline:** The period around 2022/2023 experienced a significant surge in layoffs.
-* **Yearly Leaders:** The top companies in terms of layoffs shifted each year, with major players like Uber,ByteDance,Meta and Google leading in different years.
+* **Yearly Leaders:** The top companies in terms of layoffs shifted each year, with major players like Uber, ByteDance, Meta and Google leading in different years.
 
 ## How to Replicate
 
